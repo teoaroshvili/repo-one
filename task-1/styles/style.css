@@ -24,3 +24,20 @@ nav a {
     font-size: 15px;
     color: white;
 }
+
+.email-input label {
+    color: white;
+}
+
+.email-input input {
+    background-color: white;
+}
+
+.send-email-btn button {
+    background-color: lightblue;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    width: 100px;
+    height: 30px;
+}
