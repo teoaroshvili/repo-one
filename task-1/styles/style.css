@@ -1,0 +1,26 @@
+* {
+    background-color: gray;
+}
+
+.image img{
+    width: 200px;
+    height: 200px;
+}
+
+nav a {
+    font-size: 20px;
+    color: white;
+}
+
+.name {
+    color: white;
+}
+
+.description {
+    font-size: 15px;
+}
+
+.fb-link {
+    font-size: 15px;
+    color: white;
+}
